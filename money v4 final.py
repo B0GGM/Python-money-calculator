@@ -1,4 +1,4 @@
-### Money Machine - 100 gecs (naz3ent remix) ###
+###start of code###
 
 #def variables
 user_price = float(input("Enter the price : $"))
